@@ -3,4 +3,5 @@ init в vs
 print("всем привет")
 
 ывапло48г
-rewert commit
+revert commit
+git stash - тайник тудф добфвляются только модиф файлы
